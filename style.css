@@ -1,0 +1,63 @@
+header {
+    background-color: #7eb2da;
+    color: #070000;
+    ;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer{
+    background-color: #7eb2da;
+}
+
+.titulo {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+}
+
+.ul-nomes {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.li-nomes {
+    margin-right: 20px;
+    text-align: right;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0px;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-family: 28px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-family: 24px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 10px
+}
